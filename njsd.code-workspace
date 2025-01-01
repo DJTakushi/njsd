@@ -4,5 +4,11 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"editor.tabSize": 2,
+		"editor.renderWhitespace": "all",
+		"editor.rulers": [
+			80
+		]
+	}
 }
